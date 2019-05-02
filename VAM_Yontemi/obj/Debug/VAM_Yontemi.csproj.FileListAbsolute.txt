@@ -1,0 +1,12 @@
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\bin\Debug\VAM_Yontemi.exe.config
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\bin\Debug\VAM_Yontemi.exe
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\bin\Debug\VAM_Yontemi.pdb
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.Form1.resources
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.Matris.resources
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.Properties.Resources.resources
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.csproj.GenerateResource.cache
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.exe
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.pdb
+D:\Belgelerim\Visual Studio 2017\Projects\VAM_Yontemi\VAM_Yontemi\obj\Debug\VAM_Yontemi.Gorsel_Cozum.resources
